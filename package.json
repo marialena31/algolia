@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "algoliasearch": "^4.12.1",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.0.0",
+    "node-fetch": "^3.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
